@@ -1,0 +1,13 @@
+images/
+
+*.img
+*.png
+*.jpg
+*.webp
+
+*.mp4
+
+*.log
+
+password.txt
+.vscode/*
