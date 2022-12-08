@@ -15,13 +15,13 @@ h2 {
     /* padding: 5px; */
 }
 
-ul {
+/* ul {
     list-style-type: none;
     margin: 0 auto;
-    /* padding: 0 auto; */
+    
     width: auto;
     text-align: center;
-    /* display: inline; */
+    
 }
 
 li { 
@@ -31,7 +31,7 @@ li {
 a {
     margin-right: 15px;
     text-decoration: none;
-}
+} */
 
 section {
         margin: 0px;
